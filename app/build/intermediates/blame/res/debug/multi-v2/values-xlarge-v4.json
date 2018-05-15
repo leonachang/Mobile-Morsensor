@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/leonachang/Desktop/MorSensor-act-ser/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xlarge-v4/values-xlarge-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/leonachang/Desktop/MorSensor-act-ser/app/src/main/res/values-xlarge/dimens.xml",
+                    "from": {
+                        "startLines": "1,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "17,76",
+                        "endColumns": "57,55",
+                        "endOffsets": "70,127"
+                    },
+                    "to": {
+                        "startLines": "4,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "196,254",
+                        "endColumns": "57,55",
+                        "endOffsets": "249,305"
+                    }
+                },
+                {
+                    "source": "/Users/leonachang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.0.aar/61579330c2f992eb5f90df4c7abc73d1/res/values-xlarge/values-xlarge.xml",
+                    "from": {
+                        "startLines": "4,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "293,609,673,740,807,873,939",
+                        "endColumns": "76,63,66,66,65,65,54",
+                        "endOffsets": "365,668,735,802,868,934,989"
+                    },
+                    "to": {
+                        "startLines": "2,3,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,132,310,377,444,510,576",
+                        "endColumns": "76,63,66,66,65,65,54",
+                        "endOffsets": "127,191,372,439,505,571,626"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,950 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\wllai\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0-alpha1\support-annotations-24.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="b8062546971a3d196343232a19a3c0016272ba47">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.0 _1019\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0-alpha1_e1e2974cf1e7755b3dddc653c95f1cbeda075335\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1121\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.9.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="57528b5deee77bfa2188fc279fd45066366f17f5">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1121\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-imagepipeline-0.9.0_7babf720d43efa41fe6799edbbbaa97bd3e8372e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1107\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="bceb88fcf1ded10e5b8ba85c12ba56f9ae0c10e3">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1107\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c79e27599d12a6c741e3edb069087fa05bbd1208\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor FTDI\MorSensor Mobile - 1061019_Calibrate\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor FTDI\MorSensor Mobile - 1061019_Calibrate\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_e30702db9fd24b5bb1403fe8cbeea7f027f148ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.4 _1060118\app\libs\achartengine-1.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="bc9680a5a4771ce2fdfa9585de21ea42bf34e819">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.4 _1060118\app\build\intermediates\transforms\dex\debug\folders\1000\2\achartengine-1.2.0_f9a24142fbddf4fac1adfbf143400f7397bb0008\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.0 _1019\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="9aaaea3a89040f8176f810c85e288fc74d5d1f12">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.0 _1019\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0-alpha1_7eb4489db29161d7ef4cda5c152083b0ca602019\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.0 _1019\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="8169c6b2db7e9fb839d6ef6b218b58fc00609d03">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.0 _1019\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f2b0e68a92231e23a295b232dc06af59e2c528de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1107\app\libs\achartengine-1.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="bc9680a5a4771ce2fdfa9585de21ea42bf34e819">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1107\app\build\intermediates\transforms\dex\debug\folders\1000\2\achartengine-1.2.0_538316626f3aec0454037f5a7b6ac6b6f1d30e53\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.3 _1060116\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="9aaaea3a89040f8176f810c85e288fc74d5d1f12">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.3 _1060116\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0-alpha1_f2c6fe89a3a60be187934c5275fa69eb816bc709\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor FTDI\MorSensor Mobile - 1061107\app\libs\d2xx.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="549d88cce99830dc2ae951a13d5a8b897362351b">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor FTDI\MorSensor Mobile - 1061107\app\build\intermediates\transforms\dex\debug\folders\1000\2\d2xx_9b76de36e7a2db3309d11e7012d14a65a733db76\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1121\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1121\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-22.2.0_6d4f3a3acbfdca9fdf3fe264c8c3af32ee8f0d9c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1121\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\0.9.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="39bd9f893c75eac9e76559cc4e96af6e417afdc5">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1121\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-imagepipeline-base-0.9.0_b8678bd236eb0f76318b0e5ba2793219fe32528e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\wllai\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.0 _1019\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-2.4.0_eb2d021625c7dbbf25845462273c0d4e7b8c3100\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.0 _1019\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.9.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="3158c15bb0ae97575debdb40cfcd8f0f9f244526">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.0 _1019\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-drawee-0.9.0_e1a60d8fec03b9522beed77fb10b9aa27081f4b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.0 _1019\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\jars\libs\internal_impl-24.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="e57fba0a2d57d3501d8f4ff44c23092978804845">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.0 _1019\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0-alpha1_57a342e9a84ff33801ce2d7ac944e337b27cc8c4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.4 _1060118\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="eb50446c3a232d5f6530bbaee530f43bd4ca1301">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.4 _1060118\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c4453379f772d2da74e27c5f3d461bb7ac5e334d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.4 _1060118\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.4 _1060118\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-22.2.0_74ad91d0f23013c4ebcf4a664c30b0250f1a7e42\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1107\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="9aaaea3a89040f8176f810c85e288fc74d5d1f12">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1107\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0-alpha1_33829dac71694af80b5f55948c952a68630c6eb5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1124\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.9.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4ee95617ab850030c51486d02bc9d207b14419c6">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1124\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-fbcore-0.9.0_04568d8c166672a5455689ca2aea800462da1531\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor FTDI\MorSensor Mobile - 1061107\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c394f31791e5a4a3f88d01013094b4feab69f26a">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor FTDI\MorSensor Mobile - 1061107\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_1e7a3dee683e8ca4e83028420ff33713d6d728d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1124\app\libs\achartengine-1.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="bc9680a5a4771ce2fdfa9585de21ea42bf34e819">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1124\app\build\intermediates\transforms\dex\debug\folders\1000\2\achartengine-1.2.0_e9433734884daa3783749f2585433522266988c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1107\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.9.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="3158c15bb0ae97575debdb40cfcd8f0f9f244526">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1107\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-drawee-0.9.0_e575f0d99ed962be994aaded31b3e7620a425f67\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor FTDI\MorSensor Mobile\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5108c5db156b784761e742a4ff7b08326e90005a">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor FTDI\MorSensor Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_2773d9231d2779c8fc6588306564a5144fc01b5c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.3 _1060116\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="dffd1ad7290428beb6bf690a90d3cad535452965">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.3 _1060116\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_5dd9c99741a576cd6b36318ea572a1c5b9293d3c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.4 _1060118\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="9aaaea3a89040f8176f810c85e288fc74d5d1f12">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.4 _1060118\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0-alpha1_26cd5c13f441b6d15155c869d8c00f0dea9f5a14\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1124\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.9.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="ca51025f4a58fc7fb6cfaa85e7d09b7ae47e6187">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1124\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-fresco-0.9.0_044dfd16019bc13cdd1bc8be81ae4da75bc0c5e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.0 _1019\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.9.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4ee95617ab850030c51486d02bc9d207b14419c6">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.0 _1019\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-fbcore-0.9.0_40977804031ec91dc1c2f296665eab7fae6ba4b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\wllai\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.1.4\129874135e6081269ace2312092031558865de12\bolts-android-1.1.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.0 _1019\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-android-1.1.4_abd45d882efb8979014f722d578ed95f43b42ec9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor FTDI\MorSensor Mobile\app\libs\d2xx.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="549d88cce99830dc2ae951a13d5a8b897362351b">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor FTDI\MorSensor Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\2\d2xx_8b75d50c324d240548c41b0151ee7f570de9e8f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1107\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\jars\libs\internal_impl-24.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="e57fba0a2d57d3501d8f4ff44c23092978804845">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1107\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0-alpha1_a87f34c0952d58819bcd5f05ffaefcec30059953\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1121\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\jars\libs\internal_impl-24.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="e57fba0a2d57d3501d8f4ff44c23092978804845">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1121\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0-alpha1_2e0e702fd3d5945324543bf2a18e16863bfc0eb2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.0 _1019\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.0 _1019\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-22.2.0_1929d32fabc1776e0fed262c32932ff3e7579bb5\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\_project\MorSensor\Android\_MorSensor FTDI\MorSensor Mobile - 1060830\app\libs\achartengine-1.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc9680a5a4771ce2fdfa9585de21ea42bf34e819">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor FTDI\MorSensor Mobile - 1060830\app\build\intermediates\pre-dexed\debug\achartengine-1.2.0_3a0627638dfc2d1aa19cd66abdf77edd91e95424.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1107\app\libs\achartengine-1.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="bc9680a5a4771ce2fdfa9585de21ea42bf34e819">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1107\app\build\intermediates\pre-dexed\release\achartengine-1.2.0_538316626f3aec0454037f5a7b6ac6b6f1d30e53.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.0 _1019\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.9.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="57528b5deee77bfa2188fc279fd45066366f17f5">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.0 _1019\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-imagepipeline-0.9.0_895cda1bfbc2961432f4938eefa1f3c83eafc423\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\_project\MorSensor\Android\_MorSensor FTDI\MorSensor Mobile - 1060830\app\libs\d2xx.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="549d88cce99830dc2ae951a13d5a8b897362351b">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor FTDI\MorSensor Mobile - 1060830\app\build\intermediates\pre-dexed\debug\d2xx_1fd8383c673182d748498c1c37604385c370dc5e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor FTDI\MorSensor Mobile - 1060906_Calibrate\app\libs\d2xx.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="549d88cce99830dc2ae951a13d5a8b897362351b">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor FTDI\MorSensor Mobile - 1060906_Calibrate\app\build\intermediates\transforms\dex\debug\folders\1000\2\d2xx_e36f0179ba51c119c6d19a622d4af053b992ea98\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor FTDI\MorSensor Mobile - 1060906_Calibrate\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b26494f28fef65e09767a5af4d51635d220ddbd3">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor FTDI\MorSensor Mobile - 1060906_Calibrate\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_6b93863a83f3cb89ea4014979736b24bb1af2e1b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor FTDI\MorSensor Mobile - 1061019_Calibrate\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="feaebf0ce3a06aa1434bc9822e7646e41cdab1e3">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor FTDI\MorSensor Mobile - 1061019_Calibrate\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_8ffcf565cd56a814073d79b1ee76969b037b0709\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1107\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.9.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="57528b5deee77bfa2188fc279fd45066366f17f5">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1107\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-imagepipeline-0.9.0_b16455791e38d43fef2aa201c883443ca8f2b727\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\wllai\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1107\app\build\intermediates\pre-dexed\release\library-2.4.0_eb2d021625c7dbbf25845462273c0d4e7b8c3100.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.0 _1019\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.9.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="ca51025f4a58fc7fb6cfaa85e7d09b7ae47e6187">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.0 _1019\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-fresco-0.9.0_86b1a3941721d17ec5d2bef4f74510697fdcc63b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.3 _1060116\app\build\intermediates\exploded-aar\com.android.support\design\22.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.3 _1060116\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-22.2.0_fca91ded2e7243fb1dbcb5a981cf7ea62aae7d7b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.3 _1060116\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.0-beta4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="662d7533b25a666c649c10a16b42edfb95f25a4f">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.3 _1060116\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support.constraint-constraint-layout-1.0.0-beta4_ad23a273853205a1e7a3528a1d119a940e8c1e75\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1121\app\build\intermediates\exploded-aar\com.android.support\design\22.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1121\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-22.2.0_07228f7a9be21b0fcabbced736f38486603c05c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1121\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.0-beta4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="662d7533b25a666c649c10a16b42edfb95f25a4f">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1121\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support.constraint-constraint-layout-1.0.0-beta4_e048fe7bd6a42b3bc464736d1dc2a10ee7906d1a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1107\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1107\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-22.2.0_314f1892288473852aff845290bedb880cbfedb7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1121\app\libs\achartengine-1.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="bc9680a5a4771ce2fdfa9585de21ea42bf34e819">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1121\app\build\intermediates\transforms\dex\debug\folders\1000\2\achartengine-1.2.0_70b70986cf2dcacb3f1e1673558e3e07656f7e01\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1107\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.9.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="3158c15bb0ae97575debdb40cfcd8f0f9f244526">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1107\app\build\intermediates\pre-dexed\release\com.facebook.fresco-drawee-0.9.0_e575f0d99ed962be994aaded31b3e7620a425f67.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.3 _1060116\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.3 _1060116\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-22.2.0_0b0235eb85d95d86e1f26c174b8fc1da68bd2326\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\wllai\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-beta4\constraint-layout-solver-1.0.0-beta4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="0a9cb567dc008f570c28531720168f19148da965">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1121\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.0-beta4_ad97486381d48b25c3dc17c11e408eeb1bc478f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.4 _1060118\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.0-beta4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="662d7533b25a666c649c10a16b42edfb95f25a4f">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.4 _1060118\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support.constraint-constraint-layout-1.0.0-beta4_d9619083e777c1b360a450dc5cdcbb77c5ef37ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1107\app\build\intermediates\exploded-aar\com.android.support\design\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1107\app\build\intermediates\pre-dexed\release\com.android.support-design-22.2.0_f3899516be30496618ab69a9cef23a6589363e6e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1124\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="7da3ef4de3fcd61c6ba53b7faa3e139bb433e4f5">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1124\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ef676459b3df5377773a659eb091af021752db2c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor FTDI\MorSensor Mobile\app\libs\achartengine-1.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc9680a5a4771ce2fdfa9585de21ea42bf34e819">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor FTDI\MorSensor Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\2\achartengine-1.2.0_8039d9bd5a9bfd1be86f2b6e28d29149474a1bda\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.4 _1060118\app\build\intermediates\exploded-aar\com.android.support\design\22.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.4 _1060118\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-22.2.0_b6fb055184608432db6dd36145a138b2f9d696ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.0 _1019\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\0.9.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="39bd9f893c75eac9e76559cc4e96af6e417afdc5">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.0 _1019\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-imagepipeline-base-0.9.0_a49ce972c43081206bf4785dbf445634e421e9bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1107\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\jars\libs\internal_impl-24.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="e57fba0a2d57d3501d8f4ff44c23092978804845">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1107\app\build\intermediates\pre-dexed\release\internal_impl-24.0.0-alpha1_a87f34c0952d58819bcd5f05ffaefcec30059953.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1121\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.9.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4ee95617ab850030c51486d02bc9d207b14419c6">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1121\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-fbcore-0.9.0_1eb680e5170173ed16ef6c22d703a8cea4af3f6c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1124\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\jars\libs\internal_impl-24.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="e57fba0a2d57d3501d8f4ff44c23092978804845">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1124\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0-alpha1_18a8c8e1d2ee9fb16c4186fadf878c8f4b45b42a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.0 _1019\app\libs\achartengine-1.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="bc9680a5a4771ce2fdfa9585de21ea42bf34e819">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.0 _1019\app\build\intermediates\transforms\dex\debug\folders\1000\2\achartengine-1.2.0_7f9c55ee8ec36401632c2903a0e029658e255a97\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1124\app\build\intermediates\exploded-aar\com.android.support\design\22.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1124\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-22.2.0_96cc1c1bed75ac219f78fe556c8e275015253a7c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1124\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1124\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-22.2.0_afbc7e7c41d818310d00d75441c5aa4cf8c0b6f0\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1107\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.9.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="57528b5deee77bfa2188fc279fd45066366f17f5">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1107\app\build\intermediates\pre-dexed\release\com.facebook.fresco-imagepipeline-0.9.0_b16455791e38d43fef2aa201c883443ca8f2b727.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor FTDI\MorSensor Mobile - 1061107\app\libs\achartengine-1.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc9680a5a4771ce2fdfa9585de21ea42bf34e819">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor FTDI\MorSensor Mobile - 1061107\app\build\intermediates\transforms\dex\debug\folders\1000\2\achartengine-1.2.0_a5679143ee3a043580783a741ba1b5895c31fb9f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1107\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\0.9.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="39bd9f893c75eac9e76559cc4e96af6e417afdc5">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1107\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-imagepipeline-base-0.9.0_b1987062bb8785606eecbbed96f69f26b5217950\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1107\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.9.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4ee95617ab850030c51486d02bc9d207b14419c6">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1107\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-fbcore-0.9.0_158d226acc61a34ed2b558cf28ec817092fad45e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1121\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="9aaaea3a89040f8176f810c85e288fc74d5d1f12">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1121\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0-alpha1_747b1984e876a2229ca5c5093cfff3dc53a38c3c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1124\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.0-beta4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="662d7533b25a666c649c10a16b42edfb95f25a4f">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1124\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support.constraint-constraint-layout-1.0.0-beta4_3270c65f22389f0949165bd86d7194139db0528b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.0 _1019\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="e7a628e314db9b8b4e7640c84e771f1277171233">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.0 _1019\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_88b88607214035c254c71ded0dd2e738ac3f03c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1124\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\0.9.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="39bd9f893c75eac9e76559cc4e96af6e417afdc5">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1124\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-imagepipeline-base-0.9.0_f761da88dd374d0cc72b33c79d1d4115290e37c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1124\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="242ebdc74da99d1eddc7f92d7aee1d0cd1ce888b">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1124\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5a890f288a9f41b7d2054fab17b1a37ca16d8dd0\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1107\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1107\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-22.2.0_314f1892288473852aff845290bedb880cbfedb7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor FTDI\MorSensor Mobile - 1060823\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor FTDI\MorSensor Mobile - 1060823\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_795a6437e5967a8892b45ad93c4008a0b583a646\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor FTDI\MorSensor Mobile - 1060823\app\libs\d2xx.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="549d88cce99830dc2ae951a13d5a8b897362351b">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor FTDI\MorSensor Mobile - 1060823\app\build\intermediates\transforms\dex\debug\folders\1000\2\d2xx_204a90b5fdcaceb28b1a8ac8c80dfebfa5f3f366\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1121\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.9.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="3158c15bb0ae97575debdb40cfcd8f0f9f244526">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1121\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-drawee-0.9.0_5d22becfa52db75c0ada3ff33cee60da9a9fba84\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor FTDI\MorSensor Mobile - 1060823\app\libs\achartengine-1.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc9680a5a4771ce2fdfa9585de21ea42bf34e819">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor FTDI\MorSensor Mobile - 1060823\app\build\intermediates\transforms\dex\debug\folders\1000\2\achartengine-1.2.0_08f81ae2b2695b9e1155eca68c16a6aa8208462b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor FTDI\MorSensor Mobile\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor FTDI\MorSensor Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_639ff00bfb15d1e085e3eca3ef2b8eb9f4f338ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1107\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.9.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="ca51025f4a58fc7fb6cfaa85e7d09b7ae47e6187">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1107\app\build\intermediates\pre-dexed\release\com.facebook.fresco-fresco-0.9.0_dd4f3ea1caaa0480c04713a13c778720e1435524.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.4 _1060118\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="9deab04e54a26c90f7500f70f5029a3664ae8fc6">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.4 _1060118\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e30a1881f0fc3260c0db03335ec3912f4e209313\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1121\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="16f45775ab549050dc6747eba71ffc632db501e7">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1121\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_8e350cda46003820fdbf6923f628ce281a5d9468\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1124\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.9.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="57528b5deee77bfa2188fc279fd45066366f17f5">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1124\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-imagepipeline-0.9.0_c52f03ab6fc1fb69c9a362493e68acf331c43900\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor FTDI\MorSensor Mobile - 1061019_Calibrate\app\libs\achartengine-1.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc9680a5a4771ce2fdfa9585de21ea42bf34e819">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor FTDI\MorSensor Mobile - 1061019_Calibrate\app\build\intermediates\transforms\dex\debug\folders\1000\2\achartengine-1.2.0_20ae41f0ea02fabe2c6fa627f6bc8649a9e63cf6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1107\app\build\intermediates\exploded-aar\com.android.support\design\22.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1107\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-22.2.0_f3899516be30496618ab69a9cef23a6589363e6e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1121\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.9.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="ca51025f4a58fc7fb6cfaa85e7d09b7ae47e6187">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1121\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-fresco-0.9.0_dcfc123f310943c5a4fa39df1440a001613cecf9\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\wllai\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0-alpha1\support-annotations-24.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="b8062546971a3d196343232a19a3c0016272ba47">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1107\app\build\intermediates\pre-dexed\release\support-annotations-24.0.0-alpha1_e1e2974cf1e7755b3dddc653c95f1cbeda075335.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1121\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="58fbfbe88edcd940758a0516dfcea93e093e959d">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1121\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_2459196139fb63d8d7ee35b5d7f152fd2b9e0ef7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1124\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.9.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="3158c15bb0ae97575debdb40cfcd8f0f9f244526">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1124\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-drawee-0.9.0_0d022563fb9df9787c128c13f9d830c00f1f2fda\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.3 _1060116\app\libs\achartengine-1.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="bc9680a5a4771ce2fdfa9585de21ea42bf34e819">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.3 _1060116\app\build\intermediates\transforms\dex\debug\folders\1000\2\achartengine-1.2.0_41aa415426a4a07f472a25d83b4c9a4629bcc80a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor FTDI\MorSensor Mobile - 1060906_Calibrate\app\libs\achartengine-1.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc9680a5a4771ce2fdfa9585de21ea42bf34e819">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor FTDI\MorSensor Mobile - 1060906_Calibrate\app\build\intermediates\transforms\dex\debug\folders\1000\2\achartengine-1.2.0_f8d6a5521dee043f6599b0248bdf6a708875d87a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor FTDI\MorSensor Mobile - 1061107\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor FTDI\MorSensor Mobile - 1061107\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_40c9414347d2357c8766e3c43a1e58e22a07e8bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1107\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.9.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4ee95617ab850030c51486d02bc9d207b14419c6">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1107\app\build\intermediates\pre-dexed\release\com.facebook.fresco-fbcore-0.9.0_158d226acc61a34ed2b558cf28ec817092fad45e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1107\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\0.9.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="39bd9f893c75eac9e76559cc4e96af6e417afdc5">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1107\app\build\intermediates\pre-dexed\release\com.facebook.fresco-imagepipeline-base-0.9.0_b1987062bb8785606eecbbed96f69f26b5217950.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor FTDI\MorSensor Mobile - 1060906_Calibrate\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor FTDI\MorSensor Mobile - 1060906_Calibrate\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_6e73da5c5f5305640807a887027afd01a81fd097\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1124\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="9aaaea3a89040f8176f810c85e288fc74d5d1f12">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1124\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0-alpha1_fa14a7b8ef4ca452f8d2bcedfa9f5847001ce810\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1107\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="9aaaea3a89040f8176f810c85e288fc74d5d1f12">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1107\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-24.0.0-alpha1_33829dac71694af80b5f55948c952a68630c6eb5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1107\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="45ea9ee11a8e3cf9220aee911f69f5c2f2483e38">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1107\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_0cfda2df25336136c2f19d26a4331fe8c6d36363\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.0 _1019\app\build\intermediates\exploded-aar\com.android.support\design\22.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.0 _1019\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-22.2.0_f206514b2bacee5c4b6967d8b130fd133a07050e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor FTDI\MorSensor Mobile - 1060823\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4117a891bc812ff5ef6c3a5b21172e721e6a1ea7">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor FTDI\MorSensor Mobile - 1060823\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_d298e5f6ea953de9d15c54a394bb6147f10cfdb5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor FTDI\MorSensor Mobile - 1061019_Calibrate\app\libs\d2xx.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="549d88cce99830dc2ae951a13d5a8b897362351b">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor FTDI\MorSensor Mobile - 1061019_Calibrate\app\build\intermediates\transforms\dex\debug\folders\1000\2\d2xx_4950fb21d884bd82e7a747c9b297549ff8188146\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.4 _1060118\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\jars\libs\internal_impl-24.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="e57fba0a2d57d3501d8f4ff44c23092978804845">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.4 _1060118\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0-alpha1_774271e6b9b43b4bd2804502ec1882a4288aac04\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.3 _1060116\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\jars\libs\internal_impl-24.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="e57fba0a2d57d3501d8f4ff44c23092978804845">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.3 _1060116\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0-alpha1_132acd66d47e672fc27dbf2f15d442521fce7bcd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1107\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.9.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="ca51025f4a58fc7fb6cfaa85e7d09b7ae47e6187">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1107\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-fresco-0.9.0_dd4f3ea1caaa0480c04713a13c778720e1435524\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.3 _1060116\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="0bb3e577a617a2d991637c67ac6365d8cd70e080">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.3 _1060116\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_89d59382ecd26f151d4aa73a423db8b9c839b1f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\wllai\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.1.4\129874135e6081269ace2312092031558865de12\bolts-android-1.1.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="C:\_project\MorSensor\Android\_MorSensor 3.0\MorSensor WiFi Demo - 3.0.2 _1107\app\build\intermediates\pre-dexed\release\bolts-android-1.1.4_abd45d882efb8979014f722d578ed95f43b42ec9.jar" />
+    </item>
+
+</items>

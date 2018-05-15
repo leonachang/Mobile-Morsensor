@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/leonachang/Desktop/MorSensor-act-ser/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-normal-v4/values-normal-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/leonachang/Desktop/MorSensor-act-ser/app/src/main/res/values-normal/dimens.xml",
+                    "from": {
+                        "startLines": "1,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "17,75",
+                        "endColumns": "56,54",
+                        "endOffsets": "69,125"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,112",
+                        "endColumns": "56,54",
+                        "endOffsets": "107,162"
+                    }
+                }
+            ]
+        }
+    ]
+}
